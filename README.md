@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithNaVen
 - 👀 I’m interested in development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... N/A
 - 😄 Pronouns: ... N/A
