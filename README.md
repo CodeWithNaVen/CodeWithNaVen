@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen!!
+- 🐼 Hi, I’m Naveen!!
 
 My Latest Works:
 
