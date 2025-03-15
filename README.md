@@ -10,3 +10,7 @@ https://new-prescripto-9iqj.vercel.app
 
 Full Stack Expense Tracker System:
 https://naveen-expense-tracker-mu-lilac.vercel.app/
+
+Ai Content Generator:
+https://naveen-ai-content-generator.vercel.app/
+
